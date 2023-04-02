@@ -119,6 +119,6 @@ This software can be used in simple printing mobile device. Like, Bus-conductor'
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="Flowchart.png" alt="Project logo"></a>
+ <img width=500px height=500px src="Flowchart.png" alt="Project logo"></a>
 </p>
 
