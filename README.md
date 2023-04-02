@@ -1,5 +1,5 @@
 Project 1 
-# Electricity-Billing-System
+## Electricity-Billing-System
 
 # project-documentation
 
@@ -49,7 +49,8 @@ Here we can explain the step by step procedure to install those above softwares.
     h. Under System variables, select the “Path” variable and click on “Edit”. Click on “New” then paste the Path Address i.e. C:\Program Files\Java\jdk-{YOUR_JDK_VERSION}\bin. Click on “OK”.
     i. Now, in the Environment Variables dialogue, under System variables, click on “New” and then under Variable name: JAVA_HOME and Variable value: paste address i.e. C:\Program Files\Java\jdk-{YOUR_JDK_VERSION}. Click on OK => OK => OK.
     j. Open Command Prompt and enter "java -version " to check version of jdk.
-    
+```
+```
 2. Java IDE - Netbeans
     a. We need to have a setup file of the NetBeans JAVA into your setup. For get that setup file, we need to download that from "https://netbeans.org/images_www/v6/download/community/17.0/".
     b. Right-click on the setup or you can Double-Click on the setup by using the mouse.
@@ -70,22 +71,35 @@ Here we can explain the step by step procedure to install those above softwares.
   <a href="" rel="noopener">
  <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 114616" alt="Project logo"></a>
 </p>
+
+2. Here we get the input from the user.
 <p align="center">
   <a href="" rel="noopener">
  <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 114836" alt="Project logo"></a>
 </p>
+
+3. After we get the datas, then we click the Calculate button.
+Then print the bill amount based on the units.
 <p align="center">
   <a href="" rel="noopener">
  <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 114944" alt="Project logo"></a>
 </p>
+
+4. This page is come after we click the print button. After get 
+the amount in the textarea.
 <p align="center">
   <a href="" rel="noopener">
  <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 115052" alt="Project logo"></a>
 </p>
+
+5. This page is come after click the print button in the previous 
+page. In this we can save that bill statement in the pdf format.
 <p align="center">
   <a href="" rel="noopener">
  <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 115240" alt="Project logo"></a>
 </p>
+
+6. It is the end result of our project.
 <p align="center">
   <a href="" rel="noopener">
  <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 115423" alt="Project logo"></a>
