@@ -106,26 +106,16 @@ page. In this we can save that bill statement in the pdf format.
 </p>
 
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+1. The UI should be user friendly to the user.
+2. It has an automated calculation.
+3. It is very easy to use.
+4. The data is used in future purpose.
+5. It reduce work of the EB employees.
+
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+This software can be used in simple printing mobile device. Like, Bus-conductor's ticket machine. So, when EB officers check the house of the customers they can easily print the amount. And then give to that customer.
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
 
-![bg width:1000px](./swagindiaflowchart.png)
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
-## ✍️ Authors <a name = "authors"></a>
-- [@SkillLymc](https://github.com/kylelobo) - FSD
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
