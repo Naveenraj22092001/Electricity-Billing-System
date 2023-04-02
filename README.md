@@ -1,20 +1,11 @@
-# Electricity-Billing-System
 Project 1 
-# SwagIndia
+# Electricity-Billing-System
 
 # project-documentation
 
-<p align="center">
-  <a href="" rel="noopener">
- <img width=500px height=200px src="swag.png" alt="Project logo"></a>
-</p>
-
-
-<h3 align="center">Swag India</h3>
-
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> 
     <br> 
 </p>
 
@@ -30,50 +21,76 @@ Project 1
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Fully Functional E-commerce website Swag of India is a responsive e-commerce website. The technologies used in this project are HTML, CSS, Vanilla JavaScript and Bootstrap. There are a few important modules in the project like home page, image carousel, product listing page, product page, cart page, wishlist page etc. The data is accessed using ajax call and then rendered into the webpage using dynamic html template created using string literals. For cart-page we are using localstorage to temporarily storing data before clicking on the checkout button. I took almost 40 - 50 hrs to complete this project. SkillLync helped me by providing the wire-frames for all relevant feature pages
+The main objective of our project is print the Electricity bill with Customer name, Customer ID, Unit which the respective customer used and the grant amount for that respective customer.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+The following things are required before we start our project.
 
 ### Prerequisites
-What things you need to install the software and how to install them.
+The following softwares are required before we start our project.
 
 ```
-Give examples
+Java - JDK 18
+Java IDE - Netbeans
 ```
 
 ### Installing
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
+Here we can explain the step by step procedure to install those above softwares.
 
 ```
-Give the example
+1. Java - JDK 18
+    a. Go to the chrome browser and search Java JDK Download
+    b. Go to the website "https://www.oracle.com/java/technologies/downloads/".
+    c. And click x64 "Compressed Archive" for download them.
+    d. After download that we need to install that.
+    e. After the installation is complete, we have to configure environment variables to notify the system about the directory in which JDK files are located. Proceed to C:\Program Files\Java\jdk-{YOUR_JDK_VERSION}\bin (replace {-} with your JDK version).
+    f. To set the Environment Variables, you need to search Environment Variables in the Task Bar and click on “Edit the system environment variables”.
+    g. Under the Advanced section, Click on “Environment Variables”.
+    h. Under System variables, select the “Path” variable and click on “Edit”. Click on “New” then paste the Path Address i.e. C:\Program Files\Java\jdk-{YOUR_JDK_VERSION}\bin. Click on “OK”.
+    i. Now, in the Environment Variables dialogue, under System variables, click on “New” and then under Variable name: JAVA_HOME and Variable value: paste address i.e. C:\Program Files\Java\jdk-{YOUR_JDK_VERSION}. Click on OK => OK => OK.
+    j. Open Command Prompt and enter "java -version " to check version of jdk.
+    
+2. Java IDE - Netbeans
+    a. We need to have a setup file of the NetBeans JAVA into your setup. For get that setup file, we need to download that from "https://netbeans.org/images_www/v6/download/community/17.0/".
+    b. Right-click on the setup or you can Double-Click on the setup by using the mouse.
+    c. Click on the next option.
+    d. Check on the “Private networks, such as my home and work network”.
+    e. Click on the Allow access button.
+    f. Check on the “I accept” option and click on the “Next” button.
+    g. Select the path where you want to install the software and press the “Next” button.
+    h. We need to selct the path for our Netbeans software and click on the “Next” button.
+    i. Click on the “Install” button.
+    h. After complication of the setup you can click on the “Finish” button or you can also register the Software, for Further Assistance because it is a Free Software.
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
 
 ## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
+1. First of all when we run the program
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 114616" alt="Project logo"></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 114836" alt="Project logo"></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 114944" alt="Project logo"></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 115052" alt="Project logo"></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 115240" alt="Project logo"></a>
+</p>
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 115423" alt="Project logo"></a>
+</p>
 
-### Break down into end to end tests
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> ccb3ef98e38119bc8d4d95dd9750ea018ced0479
 ## 🎈 Usage <a name="usage"></a>
 Add notes about how to use the system.
 
