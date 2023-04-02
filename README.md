@@ -15,10 +15,7 @@ Project 1
 - [Deployment](#deployment)
 - [Usage](#usage)
 - [Flow Chart](#flowchart)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+
 
 ## 🧐 About <a name = "about"></a>
 The main objective of our project is print the Electricity bill with Customer name, Customer ID, Unit which the respective customer used and the grant amount for that respective customer.
