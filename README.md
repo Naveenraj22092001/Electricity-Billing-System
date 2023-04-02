@@ -117,5 +117,8 @@ page. In this we can save that bill statement in the pdf format.
 This software can be used in simple printing mobile device. Like, Bus-conductor's ticket machine. So, when EB officers check the house of the customers they can easily print the amount. And then give to that customer.
 
 ## ⛏️ Flow Chart <a name = "flowchart"></a>
-
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="Flowchart.png" alt="Project logo"></a>
+</p>
 
