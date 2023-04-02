@@ -69,40 +69,40 @@ Here we can explain the step by step procedure to install those above softwares.
 1. First of all when we run the program
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 114616" alt="Project logo"></a>
+ <img width=500px height=200px src="StartPage.png" alt="Project logo"></a>
 </p>
 
 2. Here we get the input from the user.
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 114836" alt="Project logo"></a>
+ <img width=500px height=200px src="UserInput.png" alt="Project logo"></a>
 </p>
 
 3. After we get the datas, then we click the Calculate button.
 Then print the bill amount based on the units.
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 114944" alt="Project logo"></a>
+ <img width=500px height=200px src="Calculate.png" alt="Project logo"></a>
 </p>
 
 4. This page is come after we click the print button. After get 
 the amount in the textarea.
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 115052" alt="Project logo"></a>
+ <img width=500px height=200px src="PrintMenu.png" alt="Project logo"></a>
 </p>
 
 5. This page is come after click the print button in the previous 
 page. In this we can save that bill statement in the pdf format.
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 115240" alt="Project logo"></a>
+ <img width=500px height=200px src="SaveasPdf.png" alt="Project logo"></a>
 </p>
 
 6. It is the end result of our project.
 <p align="center">
   <a href="" rel="noopener">
- <img width=500px height=200px src="D:\Internship\Project 1\Screenshot 2023-03-22 115423" alt="Project logo"></a>
+ <img width=500px height=200px src="Endresult.png" alt="Project logo"></a>
 </p>
 
 ## 🎈 Usage <a name="usage"></a>
